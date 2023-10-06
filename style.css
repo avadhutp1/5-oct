@@ -1,0 +1,28 @@
+.main{
+    width: 1000px;
+    height: 600px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 3cm;
+}
+.picture{
+    width: 50%;
+    height: 50%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+.imgg{
+    width: 50%;
+    height: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.blog{
+    width: 50%;
+    height: 50%;
+    background-color: black;
+}
